@@ -1,7 +1,7 @@
 'use strict'
 
 var should = require("should");
-var parser = require('../lib/parse-ini.js');
+var parser = require('../parse-ini.js');
 
 describe("parseINI", function () {
   it("should parse a INI input", function () {

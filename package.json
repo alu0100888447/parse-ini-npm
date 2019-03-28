@@ -2,7 +2,7 @@
   "name": "parse-ini",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "parse-ini.js",
   "scripts": {
     "test": "mocha test/parse-ini-test.js"
   },
