@@ -1,0 +1,15 @@
+{
+  "name": "parse-ini",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/parse-ini-test.js"
+  },
+  "author": "Imar Abreu Diaz",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^6.0.2",
+    "should": "^13.2.3"
+  }
+}
