@@ -10,7 +10,7 @@ spitefulness=9.7
 fullname=Mithrandir
 type=grey wizard
 website=http://tolkiengateway.net/wiki/Gandalf
-
+; comentario
 [gollum]
 fullname=Sméagol
 type=hobbit
