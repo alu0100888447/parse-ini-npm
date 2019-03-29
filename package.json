@@ -2,7 +2,7 @@
   "name": "parse-ini",
   "version": "1.0.0",
   "description": "",
-  "main": "parse-ini.js",
+  "main": "lib/parse-ini.js",
   "scripts": {
     "test": "mocha test/parse-ini-test.js"
   },
@@ -11,5 +11,6 @@
   "dependencies": {
     "mocha": "^6.0.2",
     "should": "^13.2.3"
-  }
+  },
+  "devDependencies": {}
 }
