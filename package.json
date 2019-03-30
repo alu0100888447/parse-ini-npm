@@ -1,10 +1,14 @@
 {
-  "name": "parse-ini",
+  "name": "@alu0100888447/parse-ini",
   "version": "1.0.0",
   "description": "",
   "main": "lib/parse-ini.js",
   "scripts": {
     "test": "mocha test/parse-ini-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alu0100888447/parse-ini-npm.git"
   },
   "author": "Imar Abreu Diaz",
   "license": "ISC",
